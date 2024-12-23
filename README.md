@@ -57,4 +57,4 @@ STEP 6: Use zscore of to remove outliers
 ![exp 34](https://github.com/user-attachments/assets/af51cd37-8b3f-4727-9e3a-263a598b51c9)
 
 # Result
-          <<include your Result here>>
+Thus the given data is read and data cleaning is performed.
